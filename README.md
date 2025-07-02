@@ -11,7 +11,7 @@ This e-commerce sales analysis project provides a comprehensive overview of sale
 ### Data Sources
 The data source for this project is a sales CSV dataset obtained from Kaggle, providing a comprehensive collection of e-commerce sales data for in-depth analysis and insights into sales trends and customer behavior.
 ### Tool Used
- - Ms Excel for Data Cleaning (Download here)
+ - Ms Excel for Data Cleaning [Download here](https://www.microsoft.com)
    - For Data Collection
    - For Data Cleaning
  - SQL Server (For Querying and Analysis)
