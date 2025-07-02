@@ -17,3 +17,9 @@ The data source for this project is a sales CSV dataset obtained from Kaggle, pr
  - SQL Server (For Querying and Analysis)
  - Power BI (For Creating a report)
  - Ms Power Point (For Presentation)
+
+``` SQL
+SELECT A,B,C
+WHERE A>15
+
+```
