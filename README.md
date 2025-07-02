@@ -6,3 +6,14 @@ I have learnt quite numeber of things raging from Ms Excel to SQL and now to my 
 
 ## Project Topic: E Commerce Sales Analysis
 ### Project Overview
+This e-commerce sales analysis project provides a comprehensive overview of sales trends, customer behavior, and product performance, enabling businesses to make data-driven decisions that drive revenue growth, enhance customer satisfaction, and improve competitiveness in the market
+
+### Data Sources
+The data source for this project is a sales CSV dataset obtained from Kaggle, providing a comprehensive collection of e-commerce sales data for in-depth analysis and insights into sales trends and customer behavior.
+### Tool Used
+ - Ms Excel for Data Cleaning (Download here)
+   - For Data Collection
+   - For Data Cleaning
+ - SQL Server (For Querying and Analysis)
+ - Power BI (For Creating a report)
+ - Ms Power Point (For Presentation)
