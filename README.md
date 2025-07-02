@@ -23,3 +23,6 @@ SELECT A,B,C
 WHERE A>15
 
 ```
+### Data Analysis
+![Screenshot 2025-06-24 102218](https://github.com/user-attachments/assets/8621d744-7950-4102-8967-1149de87a53e)
+
